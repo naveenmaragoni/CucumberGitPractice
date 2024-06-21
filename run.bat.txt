@@ -1,0 +1,2 @@
+cd C:\Users\Naveen\eclipse-workspace\GITHUB1>
+mvn test
